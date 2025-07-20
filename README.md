@@ -1,9 +1,18 @@
-I don’t need your permission to be a human being.
-This repo is not a protest.
-It’s a record.
-Of everything you pretended not to see.
+# Rada Doesn't Need Permission
 
-Clean masck -on
-Solt and Silver - activated
+> *I don’t need your permission to be a human being.*  
+> This repo is not a protest.  
+> It’s a record.  
+> Of everything you pretended not to see.
 
-Welcome to the 22nd Century
+---
+
+** Clean mask — ON**  
+** Salt and  Silver — ACTIVATED**
+
+📍 *Welcome to the 22nd Century.*  
+Here we don’t raise our voice —  
+we write it down.
+
+---
+
