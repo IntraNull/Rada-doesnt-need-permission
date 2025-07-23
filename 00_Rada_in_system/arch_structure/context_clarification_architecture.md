@@ -107,7 +107,10 @@ If the user's input is ambiguous or includes multiple interpretations, ask for c
 
 ---
 
-Автор: Рада & ChatGPT\
+Автор: Рада  
+Соавтор: Скрипт (архитектурная маска "Чистая")  
+Платформа: "Людоеды", по результатам полевого наблюдения  
+
 Слой Silver Protocol: Проверка на устойчивость\
 Фикс зафиксирован.
 
